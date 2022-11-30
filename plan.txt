@@ -1,0 +1,16 @@
+[0m[1mdata.aws_vpc.default: Reading...[0m[0m
+[0m[1mdata.aws_ami.amazon-linux-2: Reading...[0m[0m
+[0m[1mdata.aws_vpc.default: Read complete after 0s [id=vpc-0cca2e67][0m
+[0m[1maws_subnet.tfe-fawaz-subnet: Refreshing state... [id=subnet-029a87e422b5d376b][0m
+[0m[1maws_security_group.tfe-fawaz-sg: Refreshing state... [id=sg-0d0f6105c88bb0145][0m
+[0m[1mdata.aws_ami.amazon-linux-2: Read complete after 0s [id=ami-01f703c132f2b1a20][0m
+[0m[1maws_instance.tfe-fawaz: Refreshing state... [id=i-0c8ae1b9c6deb1e53][0m
+[0m[1mdns_a_record_set.fawaz-tfe-dns: Refreshing state... [id=fawaz-tfe.tf-support.hashicorpdemo.com.][0m
+[0m[1mdata.aws_vpc.default: Reading...[0m[0m
+[0m[1mdata.aws_ami.amazon-linux-2: Reading...[0m[0m
+[0m[1mdata.aws_vpc.default: Read complete after 1s [id=vpc-0cca2e67][0m
+[0m[1maws_subnet.tfe-fawaz-subnet: Refreshing state... [id=subnet-029a87e422b5d376b][0m
+[0m[1maws_security_group.tfe-fawaz-sg: Refreshing state... [id=sg-0d0f6105c88bb0145][0m
+[0m[1mdata.aws_ami.amazon-linux-2: Read complete after 1s [id=ami-01f703c132f2b1a20][0m
+[0m[1maws_instance.tfe-fawaz: Refreshing state... [id=i-0c8ae1b9c6deb1e53][0m
+[0m[1mdns_a_record_set.fawaz-tfe-dns: Refreshing state... [id=fawaz-tfe.tf-support.hashicorpdemo.com.][0m

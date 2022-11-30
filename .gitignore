@@ -1,0 +1,8 @@
+*.rli
+*.tfstate*
+.terraform*
+terraform.tfstate*
+old_tfstate
+*.tfvars
+*.tfplan
+*.tfbkp

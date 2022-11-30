@@ -1,0 +1,1 @@
+curl https://install.terraform.io/ptfe/stable | sudo bash
